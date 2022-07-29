@@ -1,0 +1,13 @@
+diff a/tigers.yaml b/tigers.yaml	(rejected hunks)
+@@ -1,10 +1,6 @@
+ team: Tigers
+ 
+-<<<<<<< HEAD
+-manager: Kenneth
+-=======
+-manager: Deborah
+->>>>>>> conflict-1
++manager: Brenda
+ 
+ coach: Grace 
+ 
